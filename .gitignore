@@ -3,3 +3,5 @@
 *.tfstate.backup
 .terraform.lock.hcl
 *.tfvars
+*.pem
+ec2_key.pem

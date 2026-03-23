@@ -13,7 +13,7 @@ locals {
 }
 
 module "vpc" {
-  source = "./modules/vpc"
+  source = "./modules/vpc"  
 }
 
 # 🔹 1-TIER (EC2 only)
